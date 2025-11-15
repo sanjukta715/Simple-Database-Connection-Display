@@ -1,4 +1,4 @@
-# Experiment 1: Simple Database Connection & Display (PHP + MySQL)
+Simple Database Connection & Display (PHP + MySQL)
 
 ## Objective
 Connect PHP to a MySQL database and display static table data on a webpage.
